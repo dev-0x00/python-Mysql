@@ -1,3 +1,3 @@
 # python-Mysql
-python mysql connector with google translate
+python mysql connector with google translate\n
 watch the video on youtube: https://www.youtube.com/watch?v=GAcJqf08Ejo
